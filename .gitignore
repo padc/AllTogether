@@ -1,0 +1,12 @@
+# Ignore IDE shenanigans
+.idea
+.project
+*.iml
+
+# Ignore generated files
+*.class
+gen/
+out/
+
+# Ignore local properties
+local.properties
